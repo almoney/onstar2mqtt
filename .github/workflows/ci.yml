@@ -35,8 +35,8 @@ jobs:
         uses: docker/metadata-action@v5
         with:
           images: |
-            bigthundersr/onstar2mqtt 
-            ghcr.io/bigthundersr/onstar2mqtt
+            jefferyalmoney/onstar2mqtt 
+            ghcr.io/jefferyalmoney/onstar2mqtt
           flavor: |
             latest=true
           tags: |
